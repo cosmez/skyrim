@@ -89,3 +89,7 @@ h1 {
 ol li {
   margin: 0 0 20px 0;
 }
+
+canvas {
+  -webkit-user-select: none;. 
+}
